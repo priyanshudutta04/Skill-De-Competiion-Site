@@ -1,0 +1,39 @@
+.banner{
+    font-family: 'Quicksand', sans-serif;
+    background-color:#fafafa;
+    height: auto;
+    width: auto; 
+    padding-bottom: 20px;
+    padding-top: 40px;
+}
+#banner-header{
+    color: #4a148c;
+    font-size: 28px;
+    text-align: center;
+    /*padding-top: 40px;*/
+   font-weight: bold;
+}
+#banner-img{
+    padding-left: 2%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: fill;
+}
+#banner-img-right{
+    padding-right: 2%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: fill;
+}
+#banner-text{
+    font-size: 18px;
+    padding-right: 5%;
+    text-align: left;
+}
+#banner-text-left{
+    font-size: 20px;
+    padding-left: 5%;
+    text-align: right;
+}
