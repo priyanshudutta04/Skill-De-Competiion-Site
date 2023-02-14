@@ -1,0 +1,32 @@
+.footer{
+    background-color: #222222;
+    font-size: 14px;
+    color: #bdbdbd;    
+}
+.footer1{
+    background-color: #000;
+    font-size: 14px;
+    color: #bdbdbd;
+}
+#footer-row{
+    
+    text-align: center;
+    margin-left: 4%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#fb{
+    margin-left: 20px;
+    cursor: pointer;
+}
+#insta{
+    margin-left: 20px;
+    cursor: pointer;
+}
+#ln{
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+
+
